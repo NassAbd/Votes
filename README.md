@@ -3,12 +3,12 @@ Nom du groupe : GLAN
 Membres : Guillaume LEBRETON / Luka BALY / Abdallah NASSUR / Nabil BATTATA
 
 
-Objectif :
+## Objectif :
 
 L’objectif du projet est de simuler et visualiser certains processus électoraux. 
 Plusieurs règles de votes doivent être comparées. Les électeurs et les candidats sont plongés dans le plan (on peut voir cela comme leurs positions selon deux axes). La proximité entre un votant et un candidat représente l’intensité de la préférence du votant pour ce candidat.
 
-Structure du Projet :
+## Structure du Projet :
 
 Le projet est structuré en 4 programmes : 
 
@@ -29,7 +29,7 @@ Le projet est structuré en 4 programmes :
 
 
 
-Fonctionnalités :
+## Fonctionnalités :
 
 
 Notre interface graphique est composé d’un plan pour situer les candidats et les votants et de boutons reparti en 4 groupe
