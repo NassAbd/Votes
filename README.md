@@ -56,20 +56,20 @@ En bas : méthode d’influence sur les candidats
 
 Paramètres des classes Votant et Candidat : 
 
-Votant :
+- Votant :
+  
+  - Nom prédéfini 
+  - Coordonnées x et y
+  - Dictionnaire de la distance entre ce votant et tous les candidats
 
-- Nom prédéfini 
-- Coordonnées x et y
-- Dictionnaire de la distance entre ce votant et tous les candidats
+- Candidat :
 
-Candidat :
-
-- Nom choisi par le client
-- Coordonnées x et y
-- L’utilité (Score de chaque candidat par rapport à leurs distances entre chaque votant)
-- Pourcentage d’attaque choisi aléatoirement (ce pourcentage va nous permettre de définir le budget à dépenser pour l’attaque et la défense)
-- Un budget attaque pour attaquer un autre candidat (déplace aléatoirement le candidat  qui a le plus d’utilité sur le graphe)
--  Un budget  défense pour se défendre face aux autres candidats (le candidat se déplace de telle sorte qu’il obtienne plus de voix à partir d’un rayon prédéfini) 
+  - Nom choisi par le client
+  - Coordonnées x et y
+  - L’utilité (Score de chaque candidat par rapport à leurs distances entre chaque votant)
+  - Pourcentage d’attaque choisi aléatoirement (ce pourcentage va nous permettre de définir le budget à dépenser pour l’attaque et la défense)
+  - Un budget attaque pour attaquer un autre candidat (déplace aléatoirement le candidat  qui a le plus d’utilité sur le graphe)
+  -  Un budget  défense pour se défendre face aux autres candidats (le candidat se déplace de telle sorte qu’il obtienne plus de voix à partir d’un rayon prédéfini) 
 
 
 
