@@ -68,6 +68,13 @@ Paramètres des classes Votant et Candidat :
   - Un budget attaque pour attaquer un autre candidat (déplace aléatoirement le candidat  qui a le plus d’utilité sur le graphe)
   -  Un budget  défense pour se défendre face aux autres candidats (le candidat se déplace de telle sorte qu’il obtienne plus de voix à partir d’un rayon prédéfini) 
 
+## Captures d'écran : 
+
+
+![Votes](./imageVotes1.png)
+![Votes](./imageVotes2.png)
+![Votes](./imageVotes3.png)
+![Votes](./imageVotes4.png)
 
 ## Exemple de code :
 ### classe Candidat :
