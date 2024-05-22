@@ -1,0 +1,20 @@
+Les votes se font grâce aux distances entre les votants et les candidats 
+
+ - Majorité à deux tours: 
+L'élécteur vote uniquement pour son candidat favori
+Pour le second tour, on garde uniquement les deux candidats qui ont reçu le plus de voix et on refait le vote
+
+-Condorcet(Simpson et Copeland): 
+On réalise tous les duels électoraux possibles entre les candidats (gagnant du duel = celui préféré par la majorité)
+
+ - Copeland : Un candidat gagne un point pour chaque duel gagné et un demi-point pour chaque égalité.
+ - Simpson : Le score d'un candidat est le score obtenu dans son pire duel
+
+Affichage : Ligne du candidat A et colonne du candidat B = nombre d'électeurs qui préfèrent le candidat A au candidat B.
+
+-Méthodes de calcul des scores = On compte un nombre de points pour chaque candidat, tel que pour chaque votant :
+
+ - Borda : Le candidat favori gagne n-1 points, le second n-2 points, etc... (n = nombre de candidats)
+ - Veto : Tout les candidats recoivent un point sauf le dernier.
+ - Approbation : Un candidat gagne 1 point s'il est en dessus d'un seuil spécifié.
+	
