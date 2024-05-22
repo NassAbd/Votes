@@ -32,18 +32,15 @@ Le projet est structuré en 4 programmes :
 ## Fonctionnalités :
 
 
-Notre interface graphique est composé d’un plan pour situer les candidats et les votants et de boutons reparti en 4 groupe
+Notre interface graphique est composé d’un plan pour situer les candidats et les votants et de boutons reparti en 4 groupes : 
 
+- A gauche : disposition et suppression des votants et candidats
 
+- A droite : Les méthodes de votes, résultats affichés avec des graphes pyplot
 
+- En haut : pour sauvegarder et charger des situations à partir de fichier txt
 
-A gauche : disposition et suppression des votants et candidats
-
-A droite : Les méthodes de votes, résultats affichés avec des graphes pyplot
-
-En haut : pour sauvegarder et charger des situations à partir de fichier txt
-
-En bas : méthode d’influence sur les candidats
+- En bas : méthode d’influence sur les candidats
 
 
 
