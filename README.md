@@ -69,5 +69,8 @@ Paramètres des classes Votant et Candidat :
   -  Un budget  défense pour se défendre face aux autres candidats (le candidat se déplace de telle sorte qu’il obtienne plus de voix à partir d’un rayon prédéfini) 
 
 
+## Exemple de code :
+### classe Candidat :
 
+### classe Votant :
 
