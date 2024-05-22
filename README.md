@@ -72,7 +72,5 @@ Candidat :
 -  Un budget  défense pour se défendre face aux autres candidats (le candidat se déplace de telle sorte qu’il obtienne plus de voix à partir d’un rayon prédéfini) 
 
 
-Conclusion :
 
-Notre travail est un projet universitaire dans le cadre de l’UE LU2IN013. 
 
